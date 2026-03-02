@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const skillCategories = [
   {
     title: "Languages & Frameworks",
-    skills: ["C#", ".NET Core", ".NET Framework", "ASP.NET MVC", "Python", "GoLang", "React.js", "Angular", "JavaScript", "TypeScript"],
+    skills: ["C#", ".NET Core", ".NET Framework", "ASP.NET MVC", "Python", "GoLang", "React.js", "Angular", "Vue", "JavaScript", "TypeScript", "WPF", "WinForms", "WinUI"],
   },
   {
     title: "Cloud & DevOps",
